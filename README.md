@@ -136,13 +136,13 @@ The project includes extensive validation and exception handling:
 ## Compile the Program
 
 ```bash
-javac Question_103.java
+javac ATM_SIMULATION.java
 ```
 
 ## Run the Program
 
 ```bash
-java Question_103
+java ATM_SIMULATION
 ```
 
 ---
